@@ -5,7 +5,7 @@ Sou Eduardo, natural de Belo Horizonte (MG), atualmente estou em transição de 
 
 Tenho estudado bastante não só Javascript, React, Node, MySQL, CSS, HTML, Docker, express, Typescript, MongoDB e Python, mas também metodologias ágeis como Scrum e Kaban.
 
-Meu LinkedIn: https://www.linkedin.com/in/edumafra/
+Meu email: eduardo_mafra@hotmail.com
 
 
 ## 🔗 Links
