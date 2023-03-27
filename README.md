@@ -15,6 +15,6 @@ Meu email: eduardo_mafra@hotmail.com
 
 
 ## 🛠 Habilidades
-[![Javascript], HTML, CSS, Reac.js, React Hooks, React Router, React Native, Context API, Javascript, Bash/Shell, VSCode, TypeScript, Jest, RTL, Git, Docker, MySQL, express, dotenv, entre outros
+[![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,docker,express,figma,git,github,jest,linux,mysql,nodejs,react,redux,sequelize,ts,vscode)](https://skillicons.dev)
 
 Também tenho conhecimento de metodologias ágeis como Kanban e Scrum.
