@@ -15,6 +15,6 @@ Meu email: eduardo_mafra@hotmail.com
 
 
 ## 🛠 Habilidades
-[![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,docker,express,figma,git,github,jest,linux,mysql,nodejs,react,redux,sequelize,ts,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,js,html,css,docker,express,figma,git,github,jest,linux,mysql,nodejs,react,redux,sequelize,ts,vscode&perline=6)](https://skillicons.dev)
 
 Também tenho conhecimento de metodologias ágeis como Kanban e Scrum.
